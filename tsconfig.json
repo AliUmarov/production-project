@@ -6,6 +6,8 @@
     "target": "es5",
     "jsx": "react",
     "allowJs": true,
+    "baseUrl": ".",
+    //для абсолютного импорта
     "moduleResolution": "node",
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true
