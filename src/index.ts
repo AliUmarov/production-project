@@ -1,3 +1,4 @@
 import {test} from "./test";
 
-test(123)
+test(3)
+
